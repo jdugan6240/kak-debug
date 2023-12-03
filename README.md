@@ -1,2 +1,2 @@
 # kak-debug
-General Debugging Plugin for Kakoune
+Debug Adapter Protocol client for Kakoune

@@ -1,0 +1,5 @@
+adapters:
+  debugpy:
+    executable: python
+    args:
+      - ${ADAPTER_DIR}/debugpy/build/lib/debugpy/adapter
